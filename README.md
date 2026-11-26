@@ -7,6 +7,7 @@ This repository contains 3D-printable models, OpenSCAD sources, and generated pr
 | Model | Description | Source |
 |---|---|---|
 | [ROG Bulwark Dock Shim](ally_bulwark_shim/) | Shim that lets the 2023 ROG Ally stand upright in the ROG Bulwark Dock. | [OpenSCAD](ally_bulwark_shim/ally_bulwark_shim.scad) |
+| [IVANKY Lav Mic Clip](lav_mic_clip/) | Replacement spring clip for the IVANKY lavalier microphone. | [OpenSCAD](lav_mic_clip/lav_mic_clip_pin.scad) |
 
 ## Repository layout
 
